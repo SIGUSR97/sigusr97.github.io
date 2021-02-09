@@ -1,0 +1,1 @@
+import{d as t,o as r,b as n}from"./index.7040741d.js";var s=t({setup:()=>({t:+Date()})});const e={class:"trailing-dots"};s.render=function(t,s,o,a,d,i){return r(),n("h1",e,"under construction")};export default s;
